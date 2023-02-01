@@ -40,11 +40,11 @@ public class SwipeServlet extends HttpServlet {
 
     try {
       SwipeDetail swipeDetail = (SwipeDetail) gson.fromJson(request.getReader(), SwipeDetail.class);
-//      if(!isBodyValid(swipeDetail)) {
-//        response.setStatus(HttpServletResponse.SC_BAD_REQUEST);
-//        response.getWriter().write(gson.toJson("message: Invalid inputs"));
-//        return;
-//      }
+      if(!isBodyValid(swipeDetail)) {
+        response.setStatus(HttpServletResponse.SC_BAD_REQUEST);
+        response.getWriter().write(gson.toJson("message: Invalid inputs"));
+        return;
+      }
       response.setStatus(HttpServletResponse.SC_CREATED);
       response.getWriter().write(gson.toJson("message: Swipe successful"));
     }catch (Exception e) {
