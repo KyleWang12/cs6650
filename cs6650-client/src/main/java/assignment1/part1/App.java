@@ -9,10 +9,10 @@ import org.apache.http.impl.client.HttpClients;
 import org.apache.http.impl.conn.PoolingHttpClientConnectionManager;
 
 public class App {
-    private static final int NUM_HTTP_CONNECTIONS = 300;
-    private static final int MAX_NUM_THREADS = 300;
+    private static final int NUM_HTTP_CONNECTIONS = 150;
+    private static final int MAX_NUM_THREADS = 150;
     private static final int NUM_REQUESTS = 500000;
-    private static final String BASE_URL = "http://35.93.34.179:8080/twinder-sp/swipe/";
+    private static final String BASE_URL = "http://35.162.29.14:8080/twinder-sp/swipe/";
 
     public static void main(String[] args) throws Exception {
 
