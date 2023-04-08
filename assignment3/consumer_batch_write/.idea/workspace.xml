@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="consumer:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccfcd22a-f8b6-41eb-aa7e-f8bf73a332ee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../cs6650-client/plot_performance.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../cs6650-client/plot_performance.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cs6650-client/record_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../cs6650-client/record_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cs6650-client/src/main/java/assignment1/part1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cs6650-client/src/main/java/assignment1/part1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cs6650-client/src/main/java/assignment1/part2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cs6650-client/src/main/java/assignment1/part2/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cs6650-client/src/main/java/assignment1/utils/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cs6650-client/src/main/java/assignment1/utils/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twinder/src/main/java/bean/SwipeDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../twinder/src/main/java/bean/Swipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twinder/src/main/java/servlets/SwipeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../twinder/src/main/java/servlets/SwipeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twinder/web/WEB-INF/lib/gson-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twinder/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twinder/web/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NLXLx12rjTWgDALQ1MNwJWoFi1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJ IDEA 2022.2.2/idea-projects/cs6650/consumer/src/main/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.22762646&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA 2022.2.2\idea-projects\cs6650\consumer\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="constants" />
+      <recent name="service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="consumer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccfcd22a-f8b6-41eb-aa7e-f8bf73a332ee" name="Changes" comment="" />
+      <created>1679444284147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679444284147</updated>
+      <workItem from="1679444285278" duration="1960000" />
+      <workItem from="1679511350492" duration="104000" />
+      <workItem from="1679511698183" duration="30255000" />
+      <workItem from="1679592603379" duration="11136000" />
+      <workItem from="1680980868422" duration="7454000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
